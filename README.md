@@ -1,3 +1,1 @@
-# helloword
- my homework
-i love music
+主要放置学习笔记和就职笔记
